@@ -1,0 +1,23 @@
+{
+  "name": "ml-bootcamp",
+  "version": "0.0.0",
+  "dependencies": {
+    "markdown-it": "*",
+    "highlight.js": "*"
+  },
+  "description": "ML Bootcamp",
+  "main": "build.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mbforbes/mlbc.git"
+  },
+  "author": "Maxwell Forbes",
+  "license": "All Rights Reserved",
+  "bugs": {
+    "url": "https://github.com/mbforbes/mlbc/issues"
+  },
+  "homepage": "https://github.com/mbforbes/mlbc"
+}
