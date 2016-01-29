@@ -8,8 +8,8 @@
 Date      | Time           | Place                          | Content
 ---       | ---            | ---                            | ---
 Thu 1/21  | 10am--12pm     | CSE 624 (Noe), CSE 674 (Irish) | Intro, Ch 1 (Probability), Ch 2 (Random Variables)
-Thu 1/28  | 2:30pm--4:30pm | CSE 218                        | Ch 2 (Random Variables), Ch 3 (Expectation), LDA Tutorial (Kelvin)
-Thu 2/4   | 10am--12pm     | CSE 303                        | TBD
+Thu 1/28  | 2:30pm--4:30pm | CSE 218                        | Ch 2 (Random Variables), LDA Tutorial (Kelvin)
+Thu 2/4   | 10am--12pm     | CSE 303                        | Ch 1 (Probability) ex 1--9, 17, 23; Chapter 2 (Random Variables) ex 5, 8, 11, 15
 Thu 2/11  | 10am--12pm     | CSE 303                        | TBD
 Thu 2/18  | 10am--12pm     | CSE 678 (Habib)                | TBD
 Thu 2/25  | 10am--12pm     | CSE 303                        | TBD
