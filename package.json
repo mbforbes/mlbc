@@ -2,8 +2,10 @@
   "name": "ml-bootcamp",
   "version": "0.0.0",
   "dependencies": {
+    "highlight.js": "*",
     "markdown-it": "*",
-    "highlight.js": "*"
+    "markdown-it-anchor": "*",
+    "markdown-it-table-of-contents": "*"
   },
   "description": "ML Bootcamp",
   "main": "build.js",

@@ -1,5 +1,9 @@
 # ML Bootcamp
 
+### Table of contents
+
+[[toc]]
+
 
 ## Schedule
 
@@ -7,12 +11,12 @@
 
 Date      | Time           | Place                          | Content
 ---       | ---            | ---                            | ---
-Thu 1/21  | 10am--12pm     | CSE 624 (Noe), CSE 674 (Irish) | Intro, Ch 1 (Probability), Ch 2 (Random Variables)
-Thu 1/28  | 2:30pm--4:30pm | CSE 218                        | Ch 2 (Random Variables), LDA Tutorial (Kelvin)
-Thu 2/4   | 10am--12pm     | CSE 303                        | Ch 1 (Probability) ex 1--9, 17, 23; Chapter 2 (Random Variables) ex 5, 8, 11, 15
-Thu 2/11  | 10am--12pm     | CSE 303                        | TBD
+Thu 1/21  | 10am--12pm     | CSE 624 (Noe), CSE 674 (Irish) | Intro, Ch 1 (Prob.), Ch 2 (R.Vs.)
+Thu 1/28  | 2:30pm--4:30pm | CSE 218                        | Ch 2 (R.Vs.), LDA Tutorial (Kelvin)
+Thu 2/4   | 10am--12pm     | CSE 303                        | Ch 2 (R.Vs.) ex 11, 15
+Thu 2/11  | 10am--12pm     | CSE 303                        | Ch 1, 2, 3 (Prob., R.Vs., Expect.); 1 ex / person
 Thu 2/18  | 10am--12pm     | CSE 678 (Habib)                | TBD
-Thu 2/25  | 10am--12pm     | CSE 303                        | TBD
+Thu 2/25  | 2:30pm--4:30pm | CSE 624 (Noe)                  | TBD
 Thu 3/3   | 10am--12pm     | CSE 303                        | TBD
 Thu 3/10  | 10am--12pm     | CSE 303                        | TBD
 Thu 3/17  | 10am--12pm     | CSE 303                        | TBD
@@ -83,9 +87,9 @@ and I’m shaky on many of the fundamentals utilized in ML. No one should feel
 embarrassed to admit not understanding any concept we cover (or one that we
 assume knowledge of). I think there are several requirements to meet this goal:
 
-0.	no faculty should be present for these meetings
-0.	the group should be kept small
-0.	we must be vigilant in keeping each other positive and supportive.
+1.	no faculty should be present for these meetings
+1.	the group should be kept small
+1.	we must be vigilant in keeping each other positive and supportive.
 
 #### Multiple Explanations
 

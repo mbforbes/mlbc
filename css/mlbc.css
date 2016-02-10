@@ -3,6 +3,11 @@ h2 {
 	margin-top: 50pt;
 }
 
+/* Make the anchors, if enabled, not as abrasive. */
+.header-anchor {
+	color: #c3c3c3;
+}
+
 /* General list styling (b/c of bootstrap) */
 /* ------------------------------------------------------------------ */
 
