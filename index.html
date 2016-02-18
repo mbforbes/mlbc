@@ -55,7 +55,7 @@
 <td>Thu 2/18</td>
 <td>10am–12pm</td>
 <td>CSE 678 (Habib)</td>
-<td>TBD</td>
+<td>Ch 4 (Ineq.), 5 (Convg. of RVs) (read only)</td>
 </tr>
 <tr>
 <td>Thu 2/25</td>
@@ -99,6 +99,12 @@
 <h2 id="notes">Notes</h2>
 <hr>
 <p>Notes are forthcoming.</p>
+<p>Testing an inline equation; how’s $x = \frac{y}{z}$ for size?</p>
+<p>Also, inline:</p>
+<p>$$
+\sum_zX_z+\alpha\beta\phi
+$$</p>
+<p>… is pretty cool.</p>
 <h2 id="manifesto">Manifesto</h2>
 <hr>
 <h3 id="areas">Areas</h3>
@@ -198,9 +204,26 @@ or math levels may find other formats better.</p>
 			</div>
 		</div>
 	</div>
+	<!-- Bootstrap (requires jQuery) -->
 	<script src="js/jquery.min.js"></script>
 	<script src="js/bootstrap.min.js"></script>
+	<!-- Local JS -->
 	<script src="js/mlbc.js"></script>
+	<!-- MathJax -->
+	<script type="text/x-mathjax-config">
+	  MathJax.Hub.Config({
+	    extensions: ["tex2jax.js"],
+	    jax: ["input/TeX", "output/HTML-CSS"],
+	    tex2jax: {
+	      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+	      displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
+	      processEscapes: true
+	    },
+	    "HTML-CSS": { availableFonts: ["TeX"] }
+	  });
+	</script>
+	<script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js">
+	</script>
 </body>
 </html>
 

@@ -15,7 +15,7 @@ Thu 1/21  | 10am--12pm     | CSE 624 (Noe), CSE 674 (Irish) | Intro, Ch 1 (Prob.
 Thu 1/28  | 2:30pm--4:30pm | CSE 218                        | Ch 2 (R.Vs.), LDA Tutorial (Kelvin)
 Thu 2/4   | 10am--12pm     | CSE 303                        | Ch 2 (R.Vs.) ex 11, 15
 Thu 2/11  | 10am--12pm     | CSE 303                        | Ch 1, 2, 3 (Prob., R.Vs., Expect.); 1 ex / person
-Thu 2/18  | 10am--12pm     | CSE 678 (Habib)                | TBD
+Thu 2/18  | 10am--12pm     | CSE 678 (Habib)                | Ch 4 (Ineq.), 5 (Convg. of RVs) (read only)
 Thu 2/25  | 2:30pm--4:30pm | CSE 624 (Noe)                  | TBD
 Thu 3/3   | 10am--12pm     | CSE 303                        | TBD
 Thu 3/10  | 10am--12pm     | CSE 303                        | TBD
@@ -38,6 +38,16 @@ Thu 3/17  | 10am--12pm     | CSE 303                        | TBD
 ---
 
 Notes are forthcoming.
+
+Testing an inline equation; how's $x = \frac{y}{z}$ for size?
+
+Also, inline:
+
+$$
+\sum_zX_z+\alpha\beta\phi
+$$
+
+... is pretty cool.
 
 
 ## Manifesto
