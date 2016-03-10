@@ -37,17 +37,73 @@ Thu 3/17  | n/a            | n/a                            | _no bootcamp: spri
 
 ---
 
-Notes are forthcoming.
+### Exercise solutions
 
-Testing an inline equation; how's $x = \frac{y}{z}$ for size?
+-   [Problem 5.2](#problem-52)
+-   (more coming soon!)
 
-Also, inline:
+---
+
+#### Problem 5.2
 
 $$
-\sum_zX_z+\alpha\beta\phi
+    \def\E{\mathbb{E}}
+    \def\Var{\mathbb{V}}
 $$
 
-... is pretty cool.
+Let $X_1, X_2, \dots$ be a sequence of random variables. Show that $X_n \xrightarrow{qm} b$ if and only if
+
+$$
+    \lim_{n \rightarrow \infty} \E(X_n) = b \text{ and } \lim_{n \rightarrow \infty} \Var(X_n) = 0
+$$
+
+Proof:
+
+-   $\Leftarrow$:
+
+    Showing that $X_n \xrightarrow{qm} b$ is equivalent to showing (by definition) that $\lim_{n \rightarrow \infty} \E(X_n - b)^2 = 0$.
+
+    Expanding the latter expression within the limit, we have:
+
+    $$
+        \begin{align*}
+        \E(X_n - b)^2 &= \E(X_n^2) - 2b\ \E(X_n) + b^2 \\\\
+            &= \Var(X_n) + (\E(X_n))^2 - 2b\ \E(X_n) + b^2 \\\\
+            & \\\\
+        \Rightarrow \lim_{n \rightarrow \infty} \E(X_n - b)^2 &= \lim_{n \rightarrow \infty} (\Var(X_n) + (\E(X_n))^2 - 2b\ \E(X_n) + b^2) \\\\
+            &= 0 + b^2 - 2b^2 + b^2 \text{ (applying given limits)}\\\\
+            &= 0 \\\\
+        \end{align*}
+    $$
+
+-   $\Rightarrow$:
+
+    $$
+        \begin{align*}
+        \E(X_n - b)^2 &= \E(X_n^2) - 2b\ \E(X_n) + b^2 \\\\
+            &= \Var(X_n) + (\E(X_n)^2 - 2b\ \E(X_n) + b^2) \\\\
+            &= \Var(X_n) + (\E(X_n) - b)^2 \\\\
+        \end{align*}
+    $$
+
+    Since we are given that $X_n \xrightarrow{qm} b$, by definition
+
+    $$
+        \begin{align*}
+        \lim_{n \rightarrow \infty} \E(X_n - b)^2 &= 0 \\\\
+        \Rightarrow \lim_{n \rightarrow \infty} \Var(X_n) + \lim_{n \rightarrow \infty} (\E(X_n) - b)^2 &= 0 \\\\
+        \end{align*}
+    $$
+
+    Note that both $\Var(X_n) \ge 0$ and $(\E(X_n) - b)^2 \ge 0$. Since the above sum is equal to zero, it follows that each of the limits being added must also be equal to zero:
+
+    $$
+        \begin{align*}
+        \lim_{n \rightarrow \infty} \Var(X_n) &= 0 \\\\
+        \lim_{n \rightarrow \infty} (\E(X_n) - b)^2 &= 0 \Rightarrow \lim_{n \rightarrow \infty} \E(X_n) = b \\\\
+        \end{align*}
+    $$
+
 
 
 ## Manifesto
