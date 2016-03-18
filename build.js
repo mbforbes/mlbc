@@ -24,11 +24,9 @@ md.use(require("markdown-it-anchor"), {
 });
 
 // add table of contents
-/*
 md.use(require("markdown-it-table-of-contents"), {
-	includeLevel: 2
+	includeLevel: [2]
 });
-*/
 
 // TODO(mbforbes): Try out Hexo for this.
 
