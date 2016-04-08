@@ -9,17 +9,13 @@
 
 ---
 
-Date      | Time           | Place                          | Content
----       | ---            | ---                            | ---
-Thu 1/21  | 10am--12pm     | CSE 624 (Noe), CSE 674 (Irish) | Intro, Ch 1 (Prob.), Ch 2 (R.Vs.)
-Thu 1/28  | 2:30pm--4:30pm | CSE 218                        | Ch 2 (R.Vs.), LDA Tutorial (Kelvin)
-Thu 2/4   | 10am--12pm     | CSE 303                        | Ch 2 (R.Vs.) ex 11, 15
-Thu 2/11  | 10am--12pm     | CSE 303                        | Ch 1, 2, 3 (Prob., R.Vs., Expect.): 1 ex / person
-Thu 2/18  | 10am--12pm     | CSE 678 (Habib)                | Ch 4 (Ineq.), 5 (Convg. of RVs) (read only)
-Thu 2/25  | 2:30pm--4:30pm | CSE 624 (Noe)                  | Ch 5 (Convg. of RVs): 1 ex / person
-Thu 3/3   | 10am--12pm     | CSE 303                        | Read Ch 6 (Models, ...), 7 (Estimating ...)
-Thu 3/10  | 10am--12pm     | CSE 303                        | Ch 6, 7: 1 ex / person
-Thu 3/17  | n/a            | n/a                            | _no bootcamp: spring breeeeak_
+Spring quarter '16
+
+Week | Date      | Time           | Place                          | Content
+---  | ---       | ---            | ---                            | ---
+1    | n/a       | n/a            | n/a                            | _no bootcamp_
+2    | Wed 4/6   | 4:30pm--6:30pm | CSE 305                        | Ch 8 [The Bootstrap] (read only)
+3    | Mon 4/11  | 3:30pm--5:30pm | CSE 403                        | Ch 9 [Parametric Inference] (read only)
 
 
 ## Resources
@@ -33,18 +29,20 @@ Thu 3/17  | n/a            | n/a                            | _no bootcamp: spri
 -	This website (edits, suggestions, bugs): [GitHub](https://github.com/mbforbes/mlbc)
 
 
+## Extra material
+
+What | MLBC rating | Notes
+--- | --- | ---
+http://deeplearningbook.org/ | (none yet)  | The second chapter has a quick review of relevant linear algebra.
+[Optimization course](https://inst.eecs.berkeley.edu/~ee127a/book/login/index.html) | (none yet) | The first part of the course has a review of relevant linear algebra.
+
 ## Notes
 
 ---
 
-### Exercise solutions
+### Chapter 5
 
--   [Problem 5.2](#problem-52)
--   (more coming soon!)
-
----
-
-#### Problem 5.2
+#### Exercise 5.2
 
 $$
     \def\E{\mathbb{E}}
