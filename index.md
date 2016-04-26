@@ -1,13 +1,11 @@
-# ML Bootcamp
+<div class="hero">ML Bootcamp</div>
 
 ### Table of contents
 
 [[toc]]
 
 
-## Schedule
-
----
+# Schedule
 
 Spring quarter '16
 
@@ -16,11 +14,17 @@ Week | Date      | Time           | Place                          | Content
 1    | n/a       | n/a            | n/a                            | _no bootcamp_
 2    | Wed 4/6   | 4:30pm--6:30pm | CSE 305                        | Ch 8 [The Bootstrap] (read only)
 3    | Mon 4/11  | 3:30pm--5:30pm | CSE 403                        | Ch 9 [Parametric Inference] (read only)
+4    | Mon 4/18  | 3:30pm--5:30pm | CSE 303                        | Ch 9 [Parametric Inference] (exercises)
+5    | Mon 4/25  | 3:30pm--5:30pm | CSE 303                        | Ch 10 [Hypothesis Testing and p-values] (read only)
+6    | Mon 5/2   | 3:30pm--5:30pm | CSE 303                        | Ch 10 [Hypothesis Testing and p-values] (exercises)
+7    | Mon 5/9   | 3:30pm--5:30pm | CSE 303                        | Ch 11 [Bayesian Inference] (read + exercises)
+8    | Mon 5/16  | 3:30pm--5:30pm | CSE 303                        | Ch 12 [Statistical Decision Theory] (read + exercises)
+9    | Mon 5/23  | 3:30pm--5:30pm | CSE 303                        | Ch 13 [Linear and Logistic Regression] (read + exercises)
+10   | Mon 5/30  | 3:30pm--5:30pm | CSE 303                        | Linear algebra 1 (material TBD)
+11   | Mon 6/6   | 3:30pm--5:30pm | CSE 303                        | Linear algebra 2 (material TBD)
 
 
-## Resources
-
----
+# Resources
 
 -	Material: [_All of Statistics_ by Larry Wasserman](http://www.amazon.com/All-Statistics-Statistical-Inference-Springer/dp/0387402721)
 
@@ -29,20 +33,18 @@ Week | Date      | Time           | Place                          | Content
 -	This website (edits, suggestions, bugs): [GitHub](https://github.com/mbforbes/mlbc)
 
 
-## Extra material
+# Extra material
 
 What | MLBC rating | Notes
 --- | --- | ---
 http://deeplearningbook.org/ | (none yet)  | The second chapter has a quick review of relevant linear algebra.
 [Optimization course](https://inst.eecs.berkeley.edu/~ee127a/book/login/index.html) | (none yet) | The first part of the course has a review of relevant linear algebra.
 
-## Notes
+# Notes
 
----
+## Chapter 5 [Convergence of Random Variables]
 
-### Chapter 5
-
-#### Exercise 5.2
+### Exercise 5.2
 
 $$
     \def\E{\mathbb{E}}
@@ -102,13 +104,15 @@ Proof:
         \end{align*}
     $$
 
+## Chapter 9 [Parametric Inference]
 
+### MoM estimator for $\hat{\theta}_n$ for $\Gamma(\alpha$, $\beta$)
 
-## Manifesto
+(Posting soon)
 
----
+# Manifesto
 
-### Areas
+## Areas
 
 The areas will be areas of math that a study of ML assumes you have a good
 background in. We’ll start with linear algebra, probability, and statistics,
@@ -116,35 +120,35 @@ then continue in either depth or breadth as needed. We’ll aim to be pretty
 complete with the topics in each area. A good alternate title for “ML Bootcamp”
 would be “Foundational Math for ML.”
 
-### Material
+## Material
 
 The material will be a textbook in each relevant area. If there’s a complete and
 well-written resource for a particular area or topic, we can consider that, too.
 
-### Unofficial Format
+## Unofficial Format
 
 This is not going to be a course, or anything official or registered with the
 department or sent to CSE-wide mailing lists. I am writing this because a few of
 us had discussed something like this and I want it to happen. This seemed like
 the best way to do so.
 
-### Benevolent Dictator
+## Benevolent Dictator
 
 Because I believe that having a benevolent dictator is extremely helpful to get
 nonmandatory things like this off the ground and keep them going, I will
 organize this bootcamp and select the material that will be covered. With that
 said, I will aim to be open and receptive to suggestions and feedback.
 
-### Small Group
+## Small Group
 
 I think for this to work well, there should be between two and ten people
 involved. Twenty would be too large. This should feel like some intimate liberal
 arts class you took as an undergrad where everyone is engaged.
 
-### Goals
+## Goals
 Here are my goals:
 
-#### Safe Space for Extremely Dumb Questions
+## Safe Space for Extremely Dumb Questions
 
 I will do my best to lead the charge on this. My mathematics background is thin,
 and I’m shaky on many of the fundamentals utilized in ML. No one should feel
@@ -155,7 +159,7 @@ assume knowledge of). I think there are several requirements to meet this goal:
 1.	the group should be kept small
 1.	we must be vigilant in keeping each other positive and supportive.
 
-#### Multiple Explanations
+## Multiple Explanations
 
 I think visually. The foundations of ML are often presented primarily with
 equations. This at least ensures we’ll attempt two explanations for each
@@ -164,7 +168,7 @@ about concepts. One challenge will be that getting into higher dimensional
 spaces can make visual analogies difficult to make, misleading, or—at
 worst—both.
 
-#### Move Fast
+## Move Fast
 
 We probably should have done this in the summer. Many of us have already taken
 ML, and now we’re on to application domains (NLP). However, I don’t think it’s
@@ -174,7 +178,7 @@ working on research and learning about advanced topics in classes, and because
 going too slow would bore us. Note: this is absolutely in contrast with
 attempting to leave anyone behind.
 
-#### Good Use of Your Time
+## Good Use of Your Time
 
 Covering a lot of background material will take a considerable amount of time. I
 have personally found that the more value people around me put on their time as
@@ -197,20 +201,20 @@ strategies I have for this:
 	time: everyone copying everything down takes the collective focus off of
 	what’s going on.
 
-#### Compile a Reference
+## Compile a Reference
 
 I will keep a running log online of core concepts we cover and good
 visualizations we come up with. This will be something everyone can access and
 print. I want this to be more (a) relevant, (b) easy to understand, and (c) easy
 to access than flipping through textbooks.
 
-#### Feedback Early; Fail Fast
+## Feedback Early; Fail Fast
 
 I doubt this will be perfect on the first meeting. I want to open the forum for
 both discussions and anonymous feedback on the format—what we cover, how we
 cover it, how often we meet, who leads—from the get go.
 
-### Please Fork This
+## Please Fork This
 
 With all of the above said, I don’t have the expectation this will be the sole
 study / reading group. If one or more people decide they’d like a different

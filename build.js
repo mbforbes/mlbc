@@ -14,7 +14,9 @@ var md = require('markdown-it')({
 
     return ''; // use external default escaping
   },
-  typographer: true
+  linkify: true,
+  typographer: true,
+  html: true
 });
 
 // add anchors
@@ -25,7 +27,7 @@ md.use(require("markdown-it-anchor"), {
 
 // add table of contents
 md.use(require("markdown-it-table-of-contents"), {
-	includeLevel: [2]
+	includeLevel: [1, 2]
 });
 
 // TODO(mbforbes): Try out Hexo for this.

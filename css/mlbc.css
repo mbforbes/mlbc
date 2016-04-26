@@ -1,6 +1,25 @@
+/* Get some cool fonts */
+@import url(../fonts/cm/serif/cmun-serif.css);
+@import url(../fonts/cm/concrete/cmun-concrete.css);
+@import url(../fonts/cm/typewriter/cmun-typewriter.css);
+
 /* I want more space with big headers! */
-h2 {
-	margin-top: 50pt;
+h1 {
+	margin-top: 25pt;
+}
+
+/* Use the fonts */
+h1, h2, h3, h4, h5, h6, .hero {
+	font-family: "Computer Modern Typewriter";
+}
+body {
+	font-family: "Computer Modern Serif";
+	font-size: 12pt;
+}
+
+.hero {
+	font-size: 50pt;
+	text-align: center;
 }
 
 /* Make the anchors, if enabled, not as abrasive. */
