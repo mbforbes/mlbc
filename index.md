@@ -9,19 +9,19 @@
 
 Spring quarter '16
 
-Week | Date      | Time           | Place                          | Content
----  | ---       | ---            | ---                            | ---
-1    | n/a       | n/a            | n/a                            | _no bootcamp_
-2    | Wed 4/6   | 4:30pm--6:30pm | CSE 305                        | Ch 8 [The Bootstrap] (read only)
-3    | Mon 4/11  | 3:30pm--5:30pm | CSE 403                        | Ch 9 [Parametric Inference] (read only)
-4    | Mon 4/18  | 3:30pm--5:30pm | CSE 303                        | Ch 9 [Parametric Inference] (exercises)
-5    | Mon 4/25  | 3:30pm--5:30pm | CSE 303                        | Ch 10 [Hypothesis Testing and p-values] (read only)
-6    | Mon 5/2   | 3:30pm--5:30pm | CSE 303                        | Ch 10 [Hypothesis Testing and p-values] (exercises)
-7    | Mon 5/9   | 3:30pm--5:30pm | CSE 303                        | Ch 11 [Bayesian Inference] (read + exercises)
-8    | Mon 5/16  | 3:30pm--5:30pm | CSE 303                        | Ch 12 [Statistical Decision Theory] (read + exercises)
-9    | Mon 5/23  | 3:30pm--5:30pm | CSE 303                        | Ch 13 [Linear and Logistic Regression] (read + exercises)
-10   | Mon 5/30  | 3:30pm--5:30pm | CSE 303                        | Linear algebra 1 (material TBD)
-11   | Mon 6/6   | 3:30pm--5:30pm | CSE 303                        | Linear algebra 2 (material TBD)
+Week | Date      | Time           | Place   | Content
+---  | ---       | ---            | ---     | ---
+1    | n/a       | n/a            | n/a     | _no bootcamp_
+2    | Wed 4/6   | 4:30pm--6:30pm | CSE 305 | Ch 8 [The Bootstrap] (read only)
+3    | Mon 4/11  | 3:30pm--5:30pm | CSE 403 | Ch 9 [Parametric Inference] (read only)
+4    | Mon 4/18  | 3:30pm--5:30pm | CSE 303 | Ch 9 [Parametric Inference] (exercises)
+5    | Mon 4/25  | 3:30pm--5:30pm | CSE 303 | Ch 10 [Hypothesis Testing and p-values] (read only)
+6    | Mon 5/2   | 3:30pm--5:30pm | CSE 303 | Ch 10 [Hypothesis Testing and p-values] (exercises)
+7    | Mon 5/9   | 3:30pm--5:30pm | CSE 303 | Ch 11 [Bayesian Inference] (read + exercises)
+8    | Mon 5/16  | 3:30pm--5:30pm | CSE 303 | Ch 12 [Statistical Decision Theory] (read + exercises)
+9    | Mon 5/23  | 3:30pm--5:30pm | CSE 303 | Ch 13 [Linear and Logistic Regression] (read + exercises)
+10   | Mon 5/30  | 3:30pm--5:30pm | CSE 303 | Linear algebra 1 (material TBD)
+11   | Mon 6/6   | 3:30pm--5:30pm | CSE 303 | Linear algebra 2 (material TBD)
 
 
 # Resources
