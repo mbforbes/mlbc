@@ -7,26 +7,68 @@
 
 # Schedule
 
-Spring quarter '16
+## Summer quarter '16
+<span class="label label-danger">new</span>
+
+### Foundational track
 
 Week | Date      | Time           | Place   | Content
 ---  | ---       | ---            | ---     | ---
-1    | n/a       | n/a            | n/a     | _no bootcamp_
+1    | TBD       | TBD            | TBD     | Wasserman homework 1
+2    | TBD       | TBD            | TBD     | Wasserman homework 2
+3    | TBD       | TBD            | TBD     | Wasserman homework 3
+4    | TBD       | TBD            | TBD     | Wasserman homework 4
+5    | TBD       | TBD            | TBD     | Wasserman homework 5
+6    | TBD       | TBD            | TBD     | Wasserman homework 6
+7    | TBD       | TBD            | TBD     | Wasserman homework 7
+8    | TBD       | TBD            | TBD     | Wasserman homework 8
+9    | TBD       | TBD            | TBD     | Wasserman homework 9
+10   | TBD       | TBD            | TBD     | Wasserman homework 10
+11   | TBD       | TBD            | TBD     | Wasserman homework 11
+12   | TBD       | TBD            | TBD     | Wasserman homework 12
+
+-   Link: [Wasserman's course (with homeworks and solutions)](http://www.stat.cmu.edu/~larry/=stat705/)
+
+### Applied track
+
+Week | Date      | Time           | Place   | Content
+---  | ---       | ---            | ---     | ---
+1    | TBD       | TBD            | TBD     | Linear algebra 1 (exact TBD)
+2    | TBD       | TBD            | TBD     | Linear algebra 2 (exact TBD)
+3    | TBD       | TBD            | TBD     | Spectral methods (Kelvin)
+4    | TBD       | TBD            | TBD     | A Visual Tour of ML (Max)
+5    | TBD       | TBD            | TBD     | A Loss Function Tour of ML (Lucy)
+6    | TBD       | TBD            | TBD     | TBD (Nelson (+ Kelvin))
+7    | TBD       | TBD            | TBD     | TBD
+8    | TBD       | TBD            | TBD     | TBD
+9    | TBD       | TBD            | TBD     | TBD
+10   | TBD       | TBD            | TBD     | TBD
+11   | TBD       | TBD            | TBD     | TBD
+12   | TBD       | TBD            | TBD     | TBD
+
+
+## Spring quarter '16
+
+Week | Date      | Time           | Place   | Content
+---  | ---       | ---            | ---     | ---
+1    | n/a       | n/a            | n/a     | _(no bootcamp)_
 2    | Wed 4/6   | 4:30pm--6:30pm | CSE 305 | Ch 8 [The Bootstrap] (read only)
 3    | Mon 4/11  | 3:30pm--5:30pm | CSE 403 | Ch 9 [Parametric Inference] (read only)
 4    | Mon 4/18  | 3:30pm--5:30pm | CSE 303 | Ch 9 [Parametric Inference] (exercises)
 5    | Mon 4/25  | 3:30pm--5:30pm | CSE 303 | Ch 10 [Hypothesis Testing and p-values] (read only)
 6    | Mon 5/2   | 3:30pm--5:30pm | CSE 303 | Ch 10 [Hypothesis Testing and p-values] (exercises)
-7    | Mon 5/9   | 3:30pm--5:30pm | CSE 303 | Ch 11 [Bayesian Inference] (read + exercises)
-8    | Mon 5/16  | 3:30pm--5:30pm | CSE 303 | Ch 12 [Statistical Decision Theory] (read + exercises)
-9    | Mon 5/23  | 3:30pm--5:30pm | CSE 303 | Ch 13 [Linear and Logistic Regression] (read + exercises)
-10   | Mon 5/30  | 3:30pm--5:30pm | CSE 303 | Linear algebra 1 (material TBD)
-11   | Mon 6/6   | 3:30pm--5:30pm | CSE 303 | Linear algebra 2 (material TBD)
+7    | Mon 5/9   | 3:30pm--5:30pm | CSE 303 | _(summer planning)_
+8    | Mon 5/16  | 3:30pm--5:30pm | CSE 303 | Ch 11 [Bayesian Inference] (read + exercises)
+9    | Mon 5/23  | 3:30pm--5:30pm | CSE 303 | Ch 12 [Statistical Decision Theory] (read + exercises)
+10   | Mon 5/30  | n/a            | n/a     | _(no bootcamp)_
+11   | Mon 6/6   | n/a            | n/a     | _(no bootcamp)_
 
 
 # Resources
 
 -	Material: [_All of Statistics_ by Larry Wasserman](http://www.amazon.com/All-Statistics-Statistical-Inference-Springer/dp/0387402721)
+
+-   Wasesrman's Course (lecture notes, homeworks, solutions, exams) [CMU stat705](http://www.stat.cmu.edu/~larry/=stat705/)
 
 -	Google Group: [ML Bootcamp](https://groups.google.com/forum/#!forum/ml-bootcamp)
 
