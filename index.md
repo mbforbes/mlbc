@@ -31,20 +31,20 @@ Week | Date      | Time           | Place   | Content
 
 ### Applied track
 
-Week | Date      | Time           | Place   | Content
----  | ---       | ---            | ---     | ---
-1    | TBD       | TBD            | TBD     | Linear algebra 1 (exact TBD)
-2    | TBD       | TBD            | TBD     | Linear algebra 2 (exact TBD)
-3    | TBD       | TBD            | TBD     | Spectral methods (Kelvin)
-4    | TBD       | TBD            | TBD     | A Visual Tour of ML (Max)
-5    | TBD       | TBD            | TBD     | A Loss Function Tour of ML (Lucy)
-6    | TBD       | TBD            | TBD     | TBD (Nelson (+ Kelvin))
-7    | TBD       | TBD            | TBD     | TBD
-8    | TBD       | TBD            | TBD     | TBD
-9    | TBD       | TBD            | TBD     | TBD
-10   | TBD       | TBD            | TBD     | TBD
-11   | TBD       | TBD            | TBD     | TBD
-12   | TBD       | TBD            | TBD     | TBD
+Week | Date             | Time    | Place   | Content
+---  | ---              | ---     | ---     | ---
+1    | TBD (6/20--6/24) | TBD     | TBD     | Linear algebra 1 (exact TBD)
+2    | TBD (6/26--7/1)  | TBD     | TBD     | Linear algebra 2 (exact TBD)
+3    | TBD (7/3--7/7)   | TBD     | TBD     | Spectral methods (Kelvin)
+4    | TBD (7/11--7/15) | TBD     | TBD     | A Visual Tour of ML (Max)
+5    | TBD (7/18--7/22) | TBD     | TBD     | A Loss Function Tour of ML (Lucy)
+6    | TBD (7/25--7/29) | TBD     | TBD     | _TBD_ (Nelson (+ Kelvin))
+7    | TBD (8/1--8/5)   | TBD     | TBD     | Gaussian Processes (Jesse)
+8    | TBD (8/8--8/12)  | TBD     | TBD     | _TBD_ (Colin)
+9    | TBD (8/15--8/19) | TBD     | TBD     | (something w/) Neural Nets (John)
+10   | TBD (8/22--8/26) | TBD     | TBD     | TBD
+11   | TBD (8/29--9/2)  | TBD     | TBD     | TBD
+12   | TBD (9/5--9/9)   | TBD     | TBD     | TBD
 
 
 ## Spring quarter '16
@@ -164,15 +164,16 @@ would be “Foundational Math for ML.”
 
 ## Material
 
-The material will be a textbook in each relevant area. If there’s a complete and
-well-written resource for a particular area or topic, we can consider that, too.
+The material will be a textbook in each relevant area. If there’s a complete
+and well-written resource for a particular area or topic, we can consider that,
+too.
 
 ## Unofficial Format
 
 This is not going to be a course, or anything official or registered with the
-department or sent to CSE-wide mailing lists. I am writing this because a few of
-us had discussed something like this and I want it to happen. This seemed like
-the best way to do so.
+department or sent to CSE-wide mailing lists. I am writing this because a few
+of us had discussed something like this and I want it to happen. This seemed
+like the best way to do so.
 
 ## Benevolent Dictator
 
@@ -184,18 +185,19 @@ said, I will aim to be open and receptive to suggestions and feedback.
 ## Small Group
 
 I think for this to work well, there should be between two and ten people
-involved. Twenty would be too large. This should feel like some intimate liberal
-arts class you took as an undergrad where everyone is engaged.
+involved. Twenty would be too large. This should feel like some intimate
+liberal arts class you took as an undergrad where everyone is engaged.
 
 ## Goals
 Here are my goals:
 
 ## Safe Space for Extremely Dumb Questions
 
-I will do my best to lead the charge on this. My mathematics background is thin,
-and I’m shaky on many of the fundamentals utilized in ML. No one should feel
-embarrassed to admit not understanding any concept we cover (or one that we
-assume knowledge of). I think there are several requirements to meet this goal:
+I will do my best to lead the charge on this. My mathematics background is
+thin, and I’m shaky on many of the fundamentals utilized in ML. No one should
+feel embarrassed to admit not understanding any concept we cover (or one that
+we assume knowledge of). I think there are several requirements to meet this
+goal:
 
 1.	no faculty should be present for these meetings
 1.	the group should be kept small
@@ -222,33 +224,33 @@ attempting to leave anyone behind.
 
 ## Good Use of Your Time
 
-Covering a lot of background material will take a considerable amount of time. I
-have personally found that the more value people around me put on their time as
-well as my own, the more I then value my time. I want this to be a good use of
-your time, because I think you (and I) deserve to feel this way. Here some
+Covering a lot of background material will take a considerable amount of time.
+I have personally found that the more value people around me put on their time
+as well as my own, the more I then value my time. I want this to be a good use
+of your time, because I think you (and I) deserve to feel this way. Here some
 strategies I have for this:
 
--	you must do the background reading beforehand. This is essential to keep
-	sessions productive. If you can’t, catch up and come to the next session.
-	If you fall behind on one topic, you can wait until the next topic or stop
-	coming entirely. You shouldn’t feel guilty about stopping or missing if you
-	need to: this is for you.
+-   you must do the background reading beforehand. This is essential to keep
+     sessions productive. If you can’t, catch up and come to the next session.
+     If you fall behind on one topic, you can wait until the next topic or stop
+     coming entirely. You shouldn’t feel guilty about stopping or missing if
+     you need to: this is for you.
 
--	feel free to come only for areas (e.g. textbooks) or topics (e.g. chapters)
-	you’re interested in and want to cover.
+-   feel free to come only for areas (e.g. textbooks) or topics (e.g. chapters)
+     you’re interested in and want to cover.
 
--	only one person should take notes. I will do this, though if anyone has a
-	strong interest, we can alternate. Obviously no one is forbidden from
-	taking notes, but the way we do it right now in ML class is a waste of
-	time: everyone copying everything down takes the collective focus off of
-	what’s going on.
+-   only one person should take notes. I will do this, though if anyone has a
+     strong interest, we can alternate. Obviously no one is forbidden from
+     taking notes, but the way we do it right now in ML class is a waste of
+     time: everyone copying everything down takes the collective focus off of
+     what’s going on.
 
 ## Compile a Reference
 
 I will keep a running log online of core concepts we cover and good
 visualizations we come up with. This will be something everyone can access and
-print. I want this to be more (a) relevant, (b) easy to understand, and (c) easy
-to access than flipping through textbooks.
+print. I want this to be more **[a]** relevant, **[b]** easy to understand, and
+**[c]** easy to access than flipping through textbooks.
 
 ## Feedback Early; Fail Fast
 

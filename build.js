@@ -21,7 +21,7 @@ var md = require('markdown-it')({
 
 // add anchors
 md.use(require("markdown-it-anchor"), {
-	// permalink: true,
+	permalink: true,
 	// permalinkBefore: true
 });
 
