@@ -34,8 +34,8 @@ Week | Date      | Time           | Place   | Content
 Week | Date             | Time    | Place   | Content
 ---  | ---              | ---     | ---     | ---
 1    | TBD (6/20--6/24) | TBD     | TBD     | Linear algebra 1 (exact TBD)
-2    | TBD (6/26--7/1)  | TBD     | TBD     | Linear algebra 2 (exact TBD)
-3    | TBD (7/3--7/7)   | TBD     | TBD     | Spectral methods (Kelvin)
+2    | TBD (6/27--7/1)  | TBD     | TBD     | Linear algebra 2 (exact TBD)
+3    | TBD (7/4--7/8)   | TBD     | TBD     | Spectral methods (Kelvin)
 4    | TBD (7/11--7/15) | TBD     | TBD     | A Visual Tour of ML (Max)
 5    | TBD (7/18--7/22) | TBD     | TBD     | A Loss Function Tour of ML (Lucy)
 6    | TBD (7/25--7/29) | TBD     | TBD     | _TBD_ (Nelson (+ Kelvin))
