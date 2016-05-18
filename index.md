@@ -35,12 +35,12 @@ Week | Date             | Time    | Place   | Content
 ---  | ---              | ---     | ---     | ---
 1    | TBD (6/20--6/24) | TBD     | TBD     | Linear algebra 1 (exact TBD)
 2    | TBD (6/27--7/1)  | TBD     | TBD     | Linear algebra 2 (exact TBD)
-3    | TBD (7/4--7/8)   | TBD     | TBD     | Spectral methods (Kelvin)
-4    | TBD (7/11--7/15) | TBD     | TBD     | A Visual Tour of ML (Max)
-5    | TBD (7/18--7/22) | TBD     | TBD     | A Loss Function Tour of ML (Lucy)
+3    | TBD (7/4--7/8)   | TBD     | TBD     | A Visual Tour of ML (Max)
+4    | TBD (7/11--7/15) | TBD     | TBD     | A Loss Function Tour of ML (Lucy)
+5    | TBD (7/18--7/22) | TBD     | TBD     | Semi-supervised learning (Colin)
 6    | TBD (7/25--7/29) | TBD     | TBD     | _TBD_ (Nelson (+ Kelvin))
-7    | TBD (8/1--8/5)   | TBD     | TBD     | Gaussian Processes (Jesse)
-8    | TBD (8/8--8/12)  | TBD     | TBD     | _TBD_ (Colin)
+7    | TBD (8/1--8/5)   | TBD     | TBD     | Spectral methods (Kelvin)
+8    | TBD (8/8--8/12)  | TBD     | TBD     | Gaussian Processes (Jesse)
 9    | TBD (8/15--8/19) | TBD     | TBD     | (something w/) Neural Nets (John)
 10   | TBD (8/22--8/26) | TBD     | TBD     | TBD
 11   | TBD (8/29--9/2)  | TBD     | TBD     | TBD
