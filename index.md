@@ -8,61 +8,44 @@
 # Schedule
 
 ## Summer quarter '16
-<span class="label label-danger">new</span>
-
-### Foundational track
-
-Week | Date      | Time           | Place   | Content
----  | ---       | ---            | ---     | ---
-1    | TBD       | TBD            | TBD     | Wasserman homework 1
-2    | TBD       | TBD            | TBD     | Wasserman homework 2
-3    | TBD       | TBD            | TBD     | Wasserman homework 3
-4    | TBD       | TBD            | TBD     | Wasserman homework 4
-5    | TBD       | TBD            | TBD     | Wasserman homework 5
-6    | TBD       | TBD            | TBD     | Wasserman homework 6
-7    | TBD       | TBD            | TBD     | Wasserman homework 7
-8    | TBD       | TBD            | TBD     | Wasserman homework 8
-9    | TBD       | TBD            | TBD     | Wasserman homework 9
-10   | TBD       | TBD            | TBD     | Wasserman homework 10
-11   | TBD       | TBD            | TBD     | Wasserman homework 11
-12   | TBD       | TBD            | TBD     | Wasserman homework 12
-
--   Link: [Wasserman's course (with homeworks and solutions)](http://www.stat.cmu.edu/~larry/=stat705/)
 
 ### Applied track
 
-Week | Date             | Time    | Place   | Content
----  | ---              | ---     | ---     | ---
-1    | TBD (6/20--6/24) | TBD     | TBD     | Linear algebra 1 (exact TBD)
-2    | TBD (6/27--7/1)  | TBD     | TBD     | Linear algebra 2 (exact TBD)
-3    | TBD (7/4--7/8)   | TBD     | TBD     | A Visual Tour of ML (Max)
-4    | TBD (7/11--7/15) | TBD     | TBD     | A Loss Function Tour of ML (Lucy)
-5    | TBD (7/18--7/22) | TBD     | TBD     | Semi-supervised learning (Colin)
-6    | TBD (7/25--7/29) | TBD     | TBD     | _TBD_ (Nelson (+ Kelvin))
-7    | TBD (8/1--8/5)   | TBD     | TBD     | Spectral methods (Kelvin)
-8    | TBD (8/8--8/12)  | TBD     | TBD     | Gaussian Processes (Jesse)
-9    | TBD (8/15--8/19) | TBD     | TBD     | (something w/) Neural Nets (John)
-10   | TBD (8/22--8/26) | TBD     | TBD     | TBD
-11   | TBD (8/29--9/2)  | TBD     | TBD     | TBD
-12   | TBD (9/5--9/9)   | TBD     | TBD     | TBD
+Week | Date     | Time | Place         | Content
+---  | ---      | ---  | ---           | ---
+1    | Tue 6/21 | 10am | CSE 624 [Noe] | [Linear algebra 1][la1]
+2    | Tue 6/28 | 10am | CSE 624 [Noe] | Linear algebra 2 (exact TBD)
+3    | Tue 7/5  | 10am | CSE 624 [Noe] | A Visual Tour of ML (Max)
+4    | Tue 7/12 | 10am | CSE 624 [Noe] | A Loss Function Tour of ML (Lucy)
+5    | Tue 7/19 | 10am | CSE 624 [Noe] | Semi-supervised learning (Colin)
+6    | Tue 7/26 | 10am | CSE 624 [Noe] | _TBD_ (Nelson (+ Kelvin))
+7    | Tue 8/2  | 10am | CSE 624 [Noe] | Spectral methods (Kelvin)
+8    | Tue 8/9  | 10am | CSE 624 [Noe] | Gaussian Processes (Jesse)
+9    | Tue 8/16 | 10am | CSE 624 [Noe] | (something w/) Neural Nets (John)
+10   | Tue 8/23 | 10am | CSE 624 [Noe] | TBD
+11   | Tue 8/30 | 10am | CSE 624 [Noe] | TBD
+12   | Tue 9/6  | 10am | CSE 624 [Noe] | TBD
 
+[la1]: http://www.deeplearningbook.org/contents/linear_algebra.html
 
-## Spring quarter '16
+### Foundational track
 
-Week | Date      | Time           | Place   | Content
----  | ---       | ---            | ---     | ---
-1    | n/a       | n/a            | n/a     | _(no bootcamp)_
-2    | Wed 4/6   | 4:30pm--6:30pm | CSE 305 | Ch 8 [The Bootstrap] (read only)
-3    | Mon 4/11  | 3:30pm--5:30pm | CSE 403 | Ch 9 [Parametric Inference] (read only)
-4    | Mon 4/18  | 3:30pm--5:30pm | CSE 303 | Ch 9 [Parametric Inference] (exercises)
-5    | Mon 4/25  | 3:30pm--5:30pm | CSE 303 | Ch 10 [Hypothesis Testing and p-values] (read only)
-6    | Mon 5/2   | 3:30pm--5:30pm | CSE 303 | Ch 10 [Hypothesis Testing and p-values] (exercises)
-7    | Mon 5/9   | 3:30pm--5:30pm | CSE 303 | _(summer planning)_
-8    | Mon 5/16  | 3:30pm--5:30pm | CSE 303 | Ch 11 [Bayesian Inference] (read + exercises)
-9    | Mon 5/23  | 3:30pm--5:30pm | CSE 303 | Ch 12 [Statistical Decision Theory] (read + exercises)
-10   | Mon 5/30  | n/a            | n/a     | _(no bootcamp)_
-11   | Mon 6/6   | n/a            | n/a     | _(no bootcamp)_
+Week | Date     | Time | Place         | Content
+---  | ---      | ---  | ---           | ---
+1    | Thu 6/23 | 10am | CSE 624 [Noe] | Wasserman homework 1
+2    | Thu 6/30 | 10am | CSE 624 [Noe] | Wasserman homework 2
+3    | Thu 7/7  | 10am | CSE 624 [Noe] | Wasserman homework 3
+4    | Thu 7/14 | 10am | CSE 624 [Noe] | Wasserman homework 4
+5    | Thu 7/21 | 10am | CSE 624 [Noe] | Wasserman homework 5
+6    | Thu 7/28 | 10am | CSE 624 [Noe] | Wasserman homework 6
+7    | Thu 8/4  | 10am | CSE 624 [Noe] | Wasserman homework 7
+8    | Thu 8/11 | 10am | CSE 624 [Noe] | Wasserman homework 8
+9    | Thu 8/18 | 10am | CSE 624 [Noe] | Wasserman homework 9
+10   | Thu 8/25 | 10am | CSE 624 [Noe] | Wasserman homework 10
+11   | Thu 9/1  | 10am | CSE 624 [Noe] | Wasserman homework 11
+12   | Thu 9/8  | 10am | CSE 624 [Noe] | Wasserman homework 12
 
+-   Link: [Wasserman's course (with homeworks and solutions)](http://www.stat.cmu.edu/~larry/=stat705/)
 
 # Resources
 
