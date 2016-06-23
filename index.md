@@ -14,7 +14,7 @@
 Week | Date     | Time | Place         | Content
 ---  | ---      | ---  | ---           | ---
 1    | Tue 6/21 | 10am | CSE 624 [Noe] | [Linear algebra 1][la1]
-2    | Tue 6/28 | 10am | CSE 624 [Noe] | Linear algebra 2 (exact TBD)
+2    | Tue 6/28 | 10am | CSE 624 [Noe] | [Linear algebra 2][la2]
 3    | Tue 7/5  | 10am | CSE 624 [Noe] | A Visual Tour of ML (Max)
 4    | Tue 7/12 | 10am | CSE 624 [Noe] | A Loss Function Tour of ML (Lucy)
 5    | Tue 7/19 | 10am | CSE 624 [Noe] | Semi-supervised learning (Colin)
@@ -27,23 +27,23 @@ Week | Date     | Time | Place         | Content
 12   | Tue 9/6  | 10am | CSE 624 [Noe] | TBD
 
 [la1]: http://www.deeplearningbook.org/contents/linear_algebra.html
+[la2]: https://inst.eecs.berkeley.edu/~ee127a/book/login/index.html
 
 ### Foundational track
 
 Week | Date     | Time | Place         | Content
 ---  | ---      | ---  | ---           | ---
-1    | Thu 6/23 | 10am | CSE 624 [Noe] | Wasserman homework 1
-2    | Thu 6/30 | 10am | CSE 624 [Noe] | Wasserman homework 2
-3    | Thu 7/7  | 10am | CSE 624 [Noe] | Wasserman homework 3
-4    | Thu 7/14 | 10am | CSE 624 [Noe] | Wasserman homework 4
-5    | Thu 7/21 | 10am | CSE 624 [Noe] | Wasserman homework 5
-6    | Thu 7/28 | 10am | CSE 624 [Noe] | Wasserman homework 6
-7    | Thu 8/4  | 10am | CSE 624 [Noe] | Wasserman homework 7
-8    | Thu 8/11 | 10am | CSE 624 [Noe] | Wasserman homework 8
-9    | Thu 8/18 | 10am | CSE 624 [Noe] | Wasserman homework 9
-10   | Thu 8/25 | 10am | CSE 624 [Noe] | Wasserman homework 10
-11   | Thu 9/1  | 10am | CSE 624 [Noe] | Wasserman homework 11
-12   | Thu 9/8  | 10am | CSE 624 [Noe] | Wasserman homework 12
+1    | Thu 6/23 | 10am | CSE 624 [Noe] | Wasserman homework 1, part 1
+2    | Thu 6/30 | 10am | CSE 624 [Noe] | Wasserman homework 1, part 2
+3    | Thu 7/7  | 10am | CSE 624 [Noe] | Wasserman homework 2
+4    | Thu 7/14 | 10am | CSE 624 [Noe] | Wasserman homework 3
+5    | Thu 7/21 | 10am | CSE 624 [Noe] | Wasserman homework 4
+6    | Thu 7/28 | 10am | CSE 624 [Noe] | Wasserman homework 5
+7    | Thu 8/4  | 10am | CSE 624 [Noe] | Wasserman homework 6
+8    | Thu 8/11 | 10am | CSE 624 [Noe] | Wasserman homework 7
+9    | Thu 8/18 | 10am | CSE 624 [Noe] | Wasserman homework 8
+10   | Thu 8/25 | 10am | CSE 624 [Noe] | Wasserman homework 9
+11   | Thu 9/1  | 10am | CSE 624 [Noe] | Wasserman homework 10
 
 -   Link: [Wasserman's course (with homeworks and solutions)](http://www.stat.cmu.edu/~larry/=stat705/)
 
@@ -57,13 +57,6 @@ Week | Date     | Time | Place         | Content
 
 -	This website (edits, suggestions, bugs): [GitHub](https://github.com/mbforbes/mlbc)
 
-
-# Extra material
-
-What | MLBC rating | Notes
---- | --- | ---
-http://deeplearningbook.org/ | (none yet)  | The second chapter has a quick review of relevant linear algebra.
-[Optimization course](https://inst.eecs.berkeley.edu/~ee127a/book/login/index.html) | (none yet) | The first part of the course has a review of relevant linear algebra.
 
 # Notes
 
