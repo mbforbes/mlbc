@@ -33,17 +33,17 @@ Week | Date     | Time | Place         | Content
 
 Week | Date     | Time | Place         | Content
 ---  | ---      | ---  | ---           | ---
-1    | Thu 6/23 | 10am | CSE 624 [Noe] | Wasserman homework 1, part 1
-2    | Thu 6/30 | 10am | CSE 624 [Noe] | Wasserman homework 1, part 2
-3    | Thu 7/7  | 10am | CSE 624 [Noe] | Wasserman homework 2
-4    | Thu 7/14 | 10am | CSE 624 [Noe] | Wasserman homework 3
-5    | Thu 7/21 | 10am | CSE 624 [Noe] | Wasserman homework 4
-6    | Thu 7/28 | 10am | CSE 624 [Noe] | Wasserman homework 5
-7    | Thu 8/4  | 10am | CSE 624 [Noe] | Wasserman homework 6
-8    | Thu 8/11 | 10am | CSE 624 [Noe] | Wasserman homework 7
-9    | Thu 8/18 | 10am | CSE 624 [Noe] | Wasserman homework 8
-10   | Thu 8/25 | 10am | CSE 624 [Noe] | Wasserman homework 9
-11   | Thu 9/1  | 10am | CSE 624 [Noe] | Wasserman homework 10
+1    | Thu 6/23 | 10am | CSE 624 [Noe] | HW 1: 1--5
+2    | Thu 6/30 | 10am | CSE 624 [Noe] | HW 1: 6--10; HW2: 4
+3    | Thu 7/7  | 10am | CSE 624 [Noe] | HW 2 1--3, 5 (6 opt)
+4    | Thu 7/14 | 10am | CSE 624 [Noe] | HW 3
+5    | Thu 7/21 | 10am | CSE 624 [Noe] | HW 4
+6    | Thu 7/28 | 10am | CSE 624 [Noe] | HW 5
+7    | Thu 8/4  | 10am | CSE 624 [Noe] | HW 6
+8    | Thu 8/11 | 10am | CSE 624 [Noe] | HW 7
+9    | Thu 8/18 | 10am | CSE 624 [Noe] | HW 8
+10   | Thu 8/25 | 10am | CSE 624 [Noe] | HW 9
+11   | Thu 9/1  | 10am | CSE 624 [Noe] | HW 10
 
 -   Link: [Wasserman's course (with homeworks and solutions)](http://www.stat.cmu.edu/~larry/=stat705/)
 
