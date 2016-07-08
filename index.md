@@ -15,14 +15,14 @@ Week | Date     | Time | Place         | Content
 ---  | ---      | ---  | ---           | ---
 1    | Tue 6/21 | 10am | CSE 624 [Noe] | [Linear algebra 1][la1]
 2    | Tue 6/28 | 10am | CSE 624 [Noe] | [Linear algebra 2][la2]
-3    | Tue 7/5  | 10am | CSE 624 [Noe] | A Visual Tour of ML (Max)
-4    | Tue 7/12 | 10am | CSE 624 [Noe] | A Loss Function Tour of ML (Lucy)
-5    | Tue 7/19 | 10am | CSE 624 [Noe] | Semi-supervised learning (Colin)
-6    | Tue 7/26 | 10am | CSE 624 [Noe] | _TBD_ (Nelson (+ Kelvin))
+3    | Tue 7/5  | 10am | CSE 624 [Noe] | _(Nothing because Max is incompetent)_
+4    | Tue 7/12 | 10am | CSE 624 [Noe] | A Visual Tour of ML (Max)
+5    | Tue 7/19 | 10am | CSE 624 [Noe] | A Loss Function Tour of ML (Lucy)
+6    | Tue 7/26 | 10am | CSE 624 [Noe] | Semi-supervised learning (Colin)
 7    | Tue 8/2  | 10am | CSE 624 [Noe] | Spectral methods (Kelvin)
 8    | Tue 8/9  | 10am | CSE 624 [Noe] | Gaussian Processes (Jesse)
-9    | Tue 8/16 | 10am | CSE 624 [Noe] | (something w/) Neural Nets (John)
-10   | Tue 8/23 | 10am | CSE 624 [Noe] | TBD
+9    | Tue 8/16 | 10am | CSE 624 [Noe] | CRFs (John)
+10   | Tue 8/23 | 10am | CSE 624 [Noe] | TBD (Nelson)
 11   | Tue 8/30 | 10am | CSE 624 [Noe] | TBD
 12   | Tue 9/6  | 10am | CSE 624 [Noe] | TBD
 
@@ -34,7 +34,7 @@ Week | Date     | Time | Place         | Content
 Week | Date     | Time | Place         | Content
 ---  | ---      | ---  | ---           | ---
 1    | Thu 6/23 | 10am | CSE 624 [Noe] | HW 1: 1--5
-2    | Thu 6/30 | 10am | CSE 624 [Noe] | HW 1: 6--10; HW2: 4
+2    | Thu 6/30 | 10am | CSE 624 [Noe] | HW 1: 6--10; HW 2: 4
 3    | Thu 7/7  | 10am | CSE 624 [Noe] | HW 2 1--3, 5 (6 opt)
 4    | Thu 7/14 | 10am | CSE 624 [Noe] | HW 3
 5    | Thu 7/21 | 10am | CSE 624 [Noe] | HW 4
