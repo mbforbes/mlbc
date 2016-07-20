@@ -24,7 +24,7 @@ Week | Date     | Time | Place         | Content
 9    | Tue 8/16 | 10am | CSE 624 [Noe] | Semi-supervised learning (Colin)
 10   | Tue 8/23 | 10am | CSE 624 [Noe] | TBD (Nelson)
 11   | Tue 8/30 | 10am | CSE 624 [Noe] | TBD
-12   | Tue 9/6  | 10am | CSE 624 [Noe] | TBD
+12   | Tue 9/6  | 10am | CSE 624 [Noe] | Question / explanation day (all)
 
 [la1]: http://www.deeplearningbook.org/contents/linear_algebra.html
 [la2]: https://inst.eecs.berkeley.edu/~ee127a/book/login/index.html
