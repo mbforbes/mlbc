@@ -37,15 +37,36 @@ Week | Date     | Time | Place         | Content
 2    | Thu 6/30 | 10am | CSE 624 [Noe] | HW 1: 6--10; HW 2: 4
 3    | Thu 7/7  | 10am | CSE 624 [Noe] | HW 2 1--3, 5 (6 opt)
 4    | Thu 7/14 | 10am | CSE 624 [Noe] | HW 3
-5    | Thu 7/21 | 10am | CSE 624 [Noe] | HW 4
-6    | Thu 7/28 | 10am | CSE 624 [Noe] | HW 5
-7    | Thu 8/4  | 10am | CSE 624 [Noe] | HW 6
-8    | Thu 8/11 | 10am | CSE 624 [Noe] | HW 7
-9    | Thu 8/18 | 10am | CSE 624 [Noe] | HW 8
-10   | Thu 8/25 | 10am | CSE 624 [Noe] | HW 9
-11   | Thu 9/1  | 10am | CSE 624 [Noe] | HW 10
+5    | Thu 7/21 | 10am | CSE 624 [Noe] | HW 4 _(whoops)_
+6    | Thu 7/28 | 10am | CSE 624 [Noe] | HW 4 _(redux)_
+7    | Thu 8/4  | 10am | CSE 624 [Noe] | HW 5
+8    | Thu 8/11 | 10am | CSE 624 [Noe] | HW 6
+9    | Thu 8/18 | 10am | CSE 624 [Noe] | HW 7
+10   | Thu 8/25 | 10am | CSE 624 [Noe] | HW 8
+11   | Thu 9/1  | 10am | CSE 624 [Noe] | HW 9
+12   | Thu 9/8  | 10am | CSE 624 [Noe] | HW 10
 
 -   Link: [Wasserman's course (with homeworks and solutions)](http://www.stat.cmu.edu/~larry/=stat705/)
+
+-   Mapping from homeworks to Wasserman's lectures and book chapters:
+
+    ```
+    Homework    Lecture         Book (printed version)
+    ---         ---             ---
+    HW 1:       Lecture 1       Ch 1, 2, 3
+    HW 2:       Lecture 2       Ch 4
+    HW 3:       Lecture 3, 4    Ch 5
+    HW 4:       Lecture 5, 6    Ch 6, 9
+    HW 5:       Lecture 7, 8    Ch 9
+    HW 6:       Lecture 9       Ch 9
+    HW 7:       Lecture 10      Ch 10
+    HW 8:       Lecture 11, 12  Ch 6, 7, 10
+    HW 9:       Lecture 13, 14  Ch 7, 8, 11 
+    HW 10:      Lecture 15      Ch 12, 13 (in lec 15, he also notes Ch 22, 20.4)
+    
+    I believe lectures 16, 17 aren't required for homeworks. I am happy to
+    meet to discuss them.
+    ```
 
 # Resources
 
