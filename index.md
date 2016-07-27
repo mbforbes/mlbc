@@ -20,8 +20,8 @@ Week | Date     | Time | Place         | Content
 5    | Tue 7/19 | 10am | CSE 624 [Noe] | A Loss Function Tour of ML (Lucy)
 6    | Tue 7/26 | 10am | CSE 624 [Noe] | CRFs (John)
 7    | Tue 8/2  | 10am | CSE 624 [Noe] | Spectral methods (Kelvin)
-8    | Tue 8/9  | 10am | CSE 624 [Noe] | Gaussian Processes (Jesse)
-9    | Tue 8/16 | 10am | CSE 624 [Noe] | Semi-supervised learning (Colin)
+8    | Tue 8/9  | 10am | CSE 624 [Noe] | Semi-supervised learning (Colin)
+9    | Tue 8/16 | 10am | CSE 624 [Noe] | Gaussian Processes (Jesse)
 10   | Tue 8/23 | 10am | CSE 624 [Noe] | TBD (Nelson)
 11   | Tue 8/30 | 10am | CSE 624 [Noe] | TBD
 12   | Tue 9/6  | 10am | CSE 624 [Noe] | Question / explanation day (all)
