@@ -18,7 +18,7 @@ Week | Date     | Time | Place         | Content
 3    | Tue 7/5  | 10am | CSE 624 [Noe] | _(Nothing because Max is incompetent)_
 4    | Tue 7/12 | 10am | CSE 624 [Noe] | A Visual Tour of ML (Max)
 5    | Tue 7/19 | 10am | CSE 624 [Noe] | A Loss Function Tour of ML (Lucy)
-6    | Tue 7/26 | 10am | CSE 624 [Noe] | CRFs (John)
+6    | Tue 7/26 | 10am | CSE 624 [Noe] | [CRFs (John)][binder]
 7    | Tue 8/2  | 10am | CSE 624 [Noe] | Spectral methods (Kelvin)
 8    | Tue 8/9  | 10am | CSE 624 [Noe] | Semi-supervised learning (Colin)
 9    | Tue 8/16 | 10am | CSE 624 [Noe] | Gaussian Processes (Jesse)
@@ -28,6 +28,8 @@ Week | Date     | Time | Place         | Content
 
 [la1]: http://www.deeplearningbook.org/contents/linear_algebra.html
 [la2]: https://inst.eecs.berkeley.edu/~ee127a/book/login/index.html
+[binder]: http://mybinder.org:/repo/mbforbes/mlbc
+
 
 ### Foundational track
 
