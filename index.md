@@ -59,8 +59,8 @@ Week | Date     | Time | Place         | Content
     HW 2:       Lecture 2       Ch 4
     HW 3:       Lecture 3, 4    Ch 5
     HW 4:       Lecture 5, 6    Ch 6, 9
-    HW 5:       Lecture 7, 8    Ch 9
-    HW 6:       Lecture 9       Ch 9
+    HW 5:       Lecture 7, 8    Ch 9, 12
+    HW 6:       Lecture 9       Ch 9, 12
     HW 7:       Lecture 10      Ch 10
     HW 8:       Lecture 11, 12  Ch 6, 7, 10
     HW 9:       Lecture 13, 14  Ch 7, 8, 11 
