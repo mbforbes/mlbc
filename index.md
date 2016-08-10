@@ -19,7 +19,7 @@ Week | Date     | Time | Place         | Content
 4    | Tue 7/12 | 10am | CSE 624 [Noe] | A Visual Tour of ML (Max)
 5    | Tue 7/19 | 10am | CSE 624 [Noe] | A Loss Function Tour of ML (Lucy)
 6    | Tue 7/26 | 10am | CSE 624 [Noe] | CRFs (John) [[notebook][crf_binder]] [[writeup][crf_writeup]]
-7    | Tue 8/2  | 10am | CSE 624 [Noe] | Spectral methods (Kelvin)
+7    | Tue 8/2  | 10am | CSE 624 [Noe] | Spectral methods (Kelvin) [[writeup][spectral_writeup]]
 8    | Tue 8/9  | 10am | CSE 624 [Noe] | Semi-supervised learning (Colin) [[slides 1][ss_slides1]] [[slides 2][ss_slides2]] [[writeup][ss_writeup]]
 9    | Tue 8/16 | 10am | CSE 624 [Noe] | Gaussian Processes (Jesse)
 10   | Tue 8/23 | 10am | CSE 624 [Noe] | TBD (Nelson)
@@ -29,8 +29,9 @@ Week | Date     | Time | Place         | Content
 [la1]: http://www.deeplearningbook.org/contents/linear_algebra.html
 [la2]: https://inst.eecs.berkeley.edu/~ee127a/book/login/index.html
 [crf_binder]: http://mybinder.org:/repo/mbforbes/mlbc
-[crf_writeup]: slides/crf_john.pdf
-[ss_slides1]: slides/ss_colin.pdf
+[crf_writeup]: pdf/crf_john.pdf
+[spectral_writeup]: pdf/spectral_kelvin.pdf
+[ss_slides1]: pdf/ss_colin.pdf
 [ss_slides2]: http://pages.cs.wisc.edu/~jerryzhu/pub/sslicml07.pdf
 [ss_writeup]: http://pages.cs.wisc.edu/~jerryzhu/pub/SSL_EoML.pdf
 
