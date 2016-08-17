@@ -21,7 +21,7 @@ Week | Date     | Time | Place         | Content
 6    | Tue 7/26 | 10am | CSE 624 [Noe] | CRFs (John) [[notebook][crf_binder]] [[writeup][crf_writeup]]
 7    | Tue 8/2  | 10am | CSE 624 [Noe] | Spectral methods (Kelvin) [[writeup][spectral_writeup]]
 8    | Tue 8/9  | 10am | CSE 624 [Noe] | Semi-supervised learning (Colin) [[slides 1][ss_slides1]] [[slides 2][ss_slides2]] [[writeup][ss_writeup]]
-9    | Tue 8/16 | 10am | CSE 624 [Noe] | Gaussian Processes (Jesse)
+9    | Tue 8/16 | 10am | CSE 624 [Noe] | Gaussian Processes (Jesse) [[slides][gp_slides]]
 10   | Tue 8/23 | 10am | CSE 624 [Noe] | TBD (Nelson)
 11   | Tue 8/30 | 10am | CSE 624 [Noe] | TBD
 12   | Tue 9/6  | 10am | CSE 624 [Noe] | Question / explanation day (all)
@@ -34,7 +34,7 @@ Week | Date     | Time | Place         | Content
 [ss_slides1]: pdf/ss_colin.pdf
 [ss_slides2]: http://pages.cs.wisc.edu/~jerryzhu/pub/sslicml07.pdf
 [ss_writeup]: http://pages.cs.wisc.edu/~jerryzhu/pub/SSL_EoML.pdf
-
+[gp_slides]: https://sites.sas.upenn.edu/danielpr/files/gptut-penn_0.pdf
 
 ### Foundational track
 
@@ -68,9 +68,9 @@ Week | Date     | Time | Place         | Content
     HW 6:       Lecture 9       Ch 9, 12
     HW 7:       Lecture 10      Ch 10
     HW 8:       Lecture 11, 12  Ch 6, 7, 10
-    HW 9:       Lecture 13, 14  Ch 7, 8, 11 
+    HW 9:       Lecture 13, 14  Ch 7, 8, 11
     HW 10:      Lecture 15      Ch 12, 13 (in lec 15, he also notes Ch 22, 20.4)
-    
+
     I believe lectures 16, 17 aren't required for homeworks. I am happy to
     meet to discuss them.
     ```
