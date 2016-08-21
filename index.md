@@ -48,10 +48,11 @@ Week | Date     | Time | Place         | Content
 6    | Thu 7/28 | 10am | CSE 624 [Noe] | HW 4 _(redux)_
 7    | Thu 8/4  | 10am | CSE 624 [Noe] | HW 5
 8    | Thu 8/11 | 10am | CSE 624 [Noe] | HW 6
-9    | Thu 8/18 | 10am | CSE 624 [Noe] | HW 7
-10   | Thu 8/25 | 10am | CSE 624 [Noe] | HW 8
-11   | Thu 9/1  | 10am | CSE 624 [Noe] | HW 9
-12   | Thu 9/8  | 10am | CSE 624 [Noe] | HW 10
+9    | Thu 8/18 | 10am | CSE 624 [Noe] | HW 7 _(whoops)_
+10   | Thu 8/25 | 10am | CSE 624 [Noe] | HW 7 _(redux)_
+11   | Thu 9/1  | 10am | CSE 624 [Noe] | HW 8
+12   | Thu 9/8  | 10am | CSE 624 [Noe] | HW 9
+13   | Thu 9/15 | 10am | CSE 624 [Noe] | HW 10
 
 -   Link: [Wasserman's course (with homeworks and solutions)](http://www.stat.cmu.edu/~larry/=stat705/)
 
