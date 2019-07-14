@@ -2,7 +2,7 @@
 
 ML Bootcamp
 
-[Screenshot of the website.](mlbc-screen.png)
+![Screenshot of the website.](mlbc-screen.png)
 
 This was a website I used to post some content while running "ML Bootcamp" during my
 first year as a PhD student at the University of Washington.
